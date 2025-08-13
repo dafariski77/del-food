@@ -28,3 +28,12 @@ export const fontSize = {
   _4xl: 26,
   _5xl: 28,
 } as const
+
+export const lineHeight = {
+  xs: 16,
+  sm: 20,
+  md: 24,
+  lg: 28,
+  xl: 32,
+  _2xl: 40,
+} as const;

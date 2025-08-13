@@ -8,5 +8,7 @@ export const colors = {
   placeholder: "#a0a5ba",
   title: "#32343e",
   black: "#000000",
-  subtitle: "#646982"
+  subtitle: "#646982",
+  red: "#FF3326",
+  transparent: "transparent"
 } as const
